@@ -1,0 +1,29 @@
+otx.algo.detection.heads
+========================
+
+.. automodule:: otx.algo.detection.heads
+
+   
+   
+   
+
+   
+   
+   
+
+   
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      YOLOXHead
+   
+   
+
+   
+   
+   
+
+
+

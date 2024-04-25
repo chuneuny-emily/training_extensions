@@ -1,0 +1,30 @@
+otx.algo.visual\_prompting.backbones
+====================================
+
+.. automodule:: otx.algo.visual_prompting.backbones
+
+   
+   
+   
+
+   
+   
+   
+
+   
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      TinyViT
+      ViT
+   
+   
+
+   
+   
+   
+
+
+

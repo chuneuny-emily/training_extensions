@@ -1,0 +1,31 @@
+otx.algo.classification.backbones
+=================================
+
+.. automodule:: otx.algo.classification.backbones
+
+   
+   
+   
+
+   
+   
+   
+
+   
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      OTXEfficientNet
+      TimmBackbone
+      OTXMobileNetV3
+   
+   
+
+   
+   
+   
+
+
+

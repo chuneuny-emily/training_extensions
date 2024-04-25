@@ -1,0 +1,29 @@
+otx.data
+========
+
+.. automodule:: otx.data
+
+   
+   
+   
+
+   
+   
+   
+
+   
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      AnomalyDataModule
+   
+   
+
+   
+   
+   
+
+
+
